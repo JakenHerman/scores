@@ -1,6 +1,7 @@
-# scores README
+# 🏆 Scores 🏆 
+A VS Code extension to check scores for top leagues from ESPN. 
 
-This is the README for your extension "scores". After writing up a brief description, we recommend including the following sections.
+*Disclaimer: I have no affiliation with ESPN*
 
 ## Known Issues
  - Limited number of leagues (no college, soccer, rugby, etc.)
