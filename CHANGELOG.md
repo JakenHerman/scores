@@ -2,8 +2,6 @@
 
 All notable changes to the "scores" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.0]
 
-## [Unreleased]
-
-- Initial release
+- Initial release of scores will display ESPN's feed of scores for ⚾ MLB, 🏒 NHL, 🏀 NBA, 🏈 NFL, and 🏀 WNBA.
