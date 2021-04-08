@@ -10,31 +10,15 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:scores.getScores"
+		"onCommand:scores.getScores",
+		"onView:mlb",
+		"onView:nhl",
+		"onView:nfl",
+		"onView:nba",
+		"onView:wnba"
 	],
 	"main": "./dist/extension.js",
 	"contributes": {
-		"view/title": [
-			{
-				"command": "mlb.refreshScores",
-				"when": "view == scores",
-				"group": "navigation"
-			}
-		],
-		"commands": [
-			{
-				"command": "scores.getScores",
-				"title": "Get Scores"
-			},
-			{
-				"command": "mlb.refreshScores",
-				"title": "Refresh",
-				"icon": {
-					"light": "resources/light/refresh.svg",
-					"dark": "resources/dark/refresh.svg"
-				}
-			}
-		],
 		"views": {
 			"scores": [
 				{
@@ -46,8 +30,16 @@
 					"name": "National Hockey League"
 				},
 				{
-					"id": "mlr",
-					"name": "Major League Rugby"
+					"id": "nba",
+					"name": "National Basketball Association"
+				},
+				{
+					"id": "nfl",
+					"name": "National Football League"
+				},
+				{
+					"id": "wnba",
+					"name": "Womens National Basketball Association"
 				}
 			]
 		},
