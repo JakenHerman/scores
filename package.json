@@ -2,9 +2,13 @@
 	"name": "scores",
 	"displayName": "Scores",
 	"description": "Get ESPN scores and schedules for major leagues",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.55.0"
+	},
+	"publisher": "jakenherman",
+	"repository": {
+		"url": "https://www.github.com/jakenherman/scores.git"
 	},
 	"categories": [
 		"Other"
