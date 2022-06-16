@@ -1,6 +1,8 @@
 # 🏆 Scores 🏆 
 A VS Code extension to check scores for top leagues from ESPN. 
 
+<a href="https://marketplace.visualstudio.com/items?itemName=JakenHerman.scores"><img src="https://img.shields.io/visual-studio-marketplace/d/JakenHerman.scores" /></a>
+
 *Disclaimer: I have no affiliation with ESPN*
 
 ## Known Issues
